@@ -1,0 +1,14 @@
+{
+  "name": "cs313express",
+  "version": "1.0.0",
+  "description": "express for cs313",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erika Orton",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
